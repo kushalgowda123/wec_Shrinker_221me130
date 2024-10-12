@@ -64,3 +64,15 @@ Shrinker is a URL shortener application that allows users to register, login, an
 ### Protected Routes (Login Required):
 - `/shorten`: URL shortening page.
 - `/urls`: Page to view all shortened URLs by the logged-in user.
+- 
+### screen shot:
+Home page-
+<img width="1710" alt="Screenshot 2024-10-12 at 11 34 43 PM" src="https://github.com/user-attachments/assets/e19ec8b8-6700-43db-82da-333779998a5a">
+Register page--
+<img width="1710" alt="Screenshot 2024-10-12 at 11 35 10 PM" src="https://github.com/user-attachments/assets/a2b8caa9-61b7-449f-a5bf-2d75108520de">
+Login page--
+<img width="1710" alt="Screenshot 2024-10-12 at 11 36 15 PM" src="https://github.com/user-attachments/assets/b532bbd7-2015-465e-b2d7-c26c31c16f94">
+Home page--
+<img width="1710" alt="Screenshot 2024-10-12 at 11 38 09 PM" src="https://github.com/user-attachments/assets/19b2cf00-4c42-4c69-b523-28dd1a54e809">
+storedurls--
+<img width="1710" alt="Screenshot 2024-10-12 at 11 39 06 PM" src="https://github.com/user-attachments/assets/df12a318-3845-4d73-9c46-99af73f49391">
